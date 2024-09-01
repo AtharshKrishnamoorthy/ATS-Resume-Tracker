@@ -9,3 +9,7 @@ python_dotenv
 langchain-google-genai
 pypdf2
 docx2pdf
+pythoncom
+hashlib
+shutil
+pywin32
